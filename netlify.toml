@@ -23,7 +23,6 @@
   # VITE_GUMROAD_LINK_LARGE = ""
   VITE_SUBSCRIBE_LINK_LARGE = "https://t.me/CryptoHaro_Bot"
   VITE_INSTAGRAM_LINK_LARGE = "https://www.instagram.com/cryptoharo/"
-  VITE_INSTAGRAM_LINK_LARGE = "https://www.instagram.com/cryptoharo/"
   # VITE_LINKEDIN_LINK_LARGE = ""
   # VITE_MASTODON_LINK_LARGE = ""
   # VITE_MEDIUM_LINK_LARGE = ""
