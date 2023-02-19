@@ -50,7 +50,7 @@
   # VITE_CALENDAR_LINK_LARGE = ""
   # VITE_MAIL_LINK_LARGE = ""
   # VITE_WEBSITE_LINK_LARGE = "https://cryptoharo.wixsite.com/cryptoharo"
-  VITE_SUBSCRIBE TO PREMIUM_LINK_LARGE = "https://t.me/CryptoHaro_Bot"
+  VITE_SUBSCRIBE_LINK_LARGE = "https://t.me/CryptoHaro_Bot"
   # VITE_BITBUCKET_LINK_SMALL = ""
   # VITE_BLOGGER_LINK_SMALL = ""
   # VITE_CASHAPP_LINK_SMALL = ""
